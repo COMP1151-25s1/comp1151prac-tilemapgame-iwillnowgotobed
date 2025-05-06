@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "LevelDraft.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "LevelDraft.tmx": {
+            "scale": 2.9130859375,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 127.87127053302044,
+                "y": 128.04290982232652
+            }
+        },
+        "Tilesheet.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/49065351/Documents/COMP1151/comp1151prac-tilemapgame-iwillnowgotobed/Assets/kenney_tiny-dungeon/Tilemap",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "Tilesheet.tsx",
+        "LevelDraft.tmx"
+    ],
+    "project": "gameTilemap.tiled-project",
+    "recentFiles": [
+        "Tilesheet.tsx",
+        "LevelDraft.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
