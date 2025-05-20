@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Tilesheet.tsx",
+    "activeFile": "Walls.tmx",
     "expandedProjectPaths": [
         "."
     ],
@@ -22,7 +22,7 @@
         },
         "Walls.tmx": {
             "scale": 4,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
                 "x": 116.5,
                 "y": -130.75
@@ -36,12 +36,14 @@
     "map.tileWidth": 16,
     "openFiles": [
         "Tilesheet.tsx",
-        "LevelDraft.tmx"
+        "LevelDraft.tmx",
+        "Walls.tmx"
     ],
     "project": "gameTilemap.tiled-project",
     "recentFiles": [
+        "Tilesheet.tsx",
         "LevelDraft.tmx",
-        "Tilesheet.tsx"
+        "Walls.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.spacing": 1,
