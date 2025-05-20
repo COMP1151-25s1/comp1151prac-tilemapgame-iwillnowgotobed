@@ -12,13 +12,21 @@
             "scale": 2.9130859375,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 139.71438149513915,
-                "y": 127.87127053302046
+                "x": 110.87898089171975,
+                "y": 176.78846798524975
             }
         },
         "Tilesheet.tsx": {
             "scaleInDock": 3,
             "scaleInEditor": 4
+        },
+        "Walls.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 116.5,
+                "y": -130.75
+            }
         }
     },
     "last.imagePath": "C:/Users/49065351/Documents/COMP1151/comp1151prac-tilemapgame-iwillnowgotobed/Assets/kenney_tiny-dungeon/Tilemap",

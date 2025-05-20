@@ -90,4 +90,9 @@
    </object>
   </objectgroup>
  </tile>
+ <tile id="82">
+  <objectgroup draworder="index" id="3">
+   <object id="2" x="0.818182" y="0" width="14.3636" height="15.8182"/>
+  </objectgroup>
+ </tile>
 </tileset>
